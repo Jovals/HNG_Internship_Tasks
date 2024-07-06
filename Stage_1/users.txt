@@ -1,4 +1,0 @@
-kene; Frontend,
-Jacob; Backend, DevOps
-mayowa; DevOps, sudo
-
