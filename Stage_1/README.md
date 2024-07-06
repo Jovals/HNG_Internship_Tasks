@@ -6,4 +6,4 @@ The script should create users and groups as specified, set up home directories 
 Ensure error handling for scenarios like existing users and provide clear documentation and comments within the script.
 
 
-The documentation is in the aricle i wrote on it [Link]()
+The documentation is in the aricle i wrote on it [Link](https://dev.to/k3n3/bash-script-a-demo-of-user-account-and-group-creation-3na3)
